@@ -1,6 +1,6 @@
 body { background-image: url(http://colourlovers.com.s3.amazonaws.com/images/patterns/2244/2244508.png?1330212182); }
 .content {
-	width: 400px;
+	width: 397px;
 	height: auto;
 	margin: auto;
 	background: #EEE;
@@ -18,3 +18,14 @@ body { background-image: url(http://colourlovers.com.s3.amazonaws.com/images/pat
 	margin-bottom: 5px;
 }
 .other { font-size: 2em; }
+.social {
+	width: 430px;
+	margin: 3px auto;
+}
+.social img {
+	width: 140px;
+	background: #EEE;
+}
+.social img:hover {
+	background: #999;
+}
