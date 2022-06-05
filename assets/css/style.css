@@ -1048,3 +1048,12 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+# Custom CSS
+#languages-container {
+  z-index: 1;
+  right: 0;
+}
+#languages-container>a:hover {
+  text-decoration: underline;
+}
